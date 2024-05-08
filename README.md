@@ -1,1 +1,1 @@
-can read summary in ppt file
+can read the summary in summary.pdf file
