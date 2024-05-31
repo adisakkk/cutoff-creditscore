@@ -1,1 +1,1 @@
-can read the summary in summary.pdf file
+You can find a summary of the project in the "".pdf file.
